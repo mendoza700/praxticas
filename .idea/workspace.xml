@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e96f69a-652a-45ae-a434-e375f131ccd5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parxcial3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio3_2/cadena.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio3_2/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio3_6/computador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio3_6/prueba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio3_6/tienda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio3_7/computador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio3_7/prueba2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio3_7/tienda2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio4_4/profesor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio4_4/profesorTitular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio4_4/prueba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejrcicio4_1/cuenta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejrcicio4_1/cuentaAhorros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejrcicio4_1/cuentaCorriente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejrcicio4_1/pruebaCuenta.java" afterDir="false" />
-    </list>
+    <list default="true" id="3e96f69a-652a-45ae-a434-e375f131ccd5" name="Changes" comment="practicas" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +47,20 @@
       <option name="presentableId" value="Default" />
       <updated>1698627699556</updated>
     </task>
+    <task id="LOCAL-00001" summary="practicas">
+      <option name="closed" value="true" />
+      <created>1698641585989</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698641585989</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="practicas" />
+    <option name="LAST_COMMIT_MESSAGE" value="practicas" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
